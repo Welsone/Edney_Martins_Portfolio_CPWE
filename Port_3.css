@@ -874,11 +874,13 @@ section{ /*Todas as sections*/
 
     .navbar {
         display: flex; 
+        align-items: center;
         background: transparent;
+        padding: 0;
     }
 
     .navbar a {
-    margin: 5px;
+    margin: 2px;
     color: #fff;
     border-bottom: 2px solid transparent;
     transition: 0.6s;
