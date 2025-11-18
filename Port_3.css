@@ -875,15 +875,14 @@ section{ /*Todas as sections*/
     .navbar {
         display: flex; 
         background: transparent;
-        padding: 0px;
     }
 
     .navbar a {
-        margin: 7px;
+    margin: 5px;
     color: #fff;
     border-bottom: 2px solid transparent;
     transition: 0.6s;
-    font-size: 14px;
+    font-size: 12px;
     }
 
     .menu-toggle {
